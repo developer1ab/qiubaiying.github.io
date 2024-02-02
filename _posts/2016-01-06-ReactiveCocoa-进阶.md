@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      PRIVACY POLICY
-subtitle:   School Master
+title:      PRIVACY POLICY1
+subtitle:   School Master1
 date:       2024/2/2
 author:     BY
 header-img: img/post-bg-ios9-web1.jpg
