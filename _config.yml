@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Atombits Studio
 SEOTitle: Atombits Studio
 header-img: img/post-bg-desk.jpg
 email: developer1@atombits.cn
@@ -12,18 +12,18 @@ github_repo: "https://github.com/developer1ab/developer1ab.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/atombitsLogo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     developer1ab
+zhihu_username:     developer1ab
+github_username:    developer1ab
+facebook_username:  developer1ab
+jianshu_username:   developer1ab
+#twitter_username:   developer1ab
 
 
 
