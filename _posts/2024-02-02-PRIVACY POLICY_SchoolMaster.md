@@ -4,7 +4,7 @@ title:      PRIVACY POLICY
 subtitle:   School Master PRIVACY POLICY
 date:       2024-02-02
 author:     Atombits
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-cook111.jpg
 catalog: true
 tags:
     - Android
